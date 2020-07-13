@@ -1,0 +1,10 @@
+1.activate publish virtual environment and go to pro2 
+folder run "python manage.py runserver"
+2.open link in web browser "http://127.0.0.1:8000/admin"
+uname:mahesh
+pd:Gurunath1!
+3.if above uname & pd not worked create new superuser via cmd prompt
+"python manage.py createsuperuser"
+then type uname,pd
+4.open another cmd prompt with publish environment
+and local_run folder run "python client.py"

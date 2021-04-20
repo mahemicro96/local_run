@@ -192,7 +192,7 @@ psutil==5.6.3
 psycopg2==2.8.5
 psycopg2-binary==2.7.7
 PuLP==2.1
-py==1.8.0
+py==1.10.0
 pybase64==1.0.1
 pycodestyle==2.5.0
 pycosat==0.6.3

@@ -290,7 +290,7 @@ traitlets==4.3.3
 tsp==0.0.7
 twitter-scraper==0.4.2
 tzlocal==2.1
-ujson==1.35
+ujson==5.2.0
 unicodecsv==0.14.1
 urllib3==1.25.9
 validators==0.15.0
